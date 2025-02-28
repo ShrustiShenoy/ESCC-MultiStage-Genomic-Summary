@@ -8,3 +8,12 @@ This repository contains Python scripts for **Copy Number Variation (CNV)** and 
 - Identification of top mutated genes.
 - Mutation classification distribution.
 - Error logging for failed files.
+
+##  Prerequisites
+
+- Python 3.8 or higher
+- Required Libraries:
+    - `pandas`
+    - `matplotlib`
+    - `openpyxl`
+      
